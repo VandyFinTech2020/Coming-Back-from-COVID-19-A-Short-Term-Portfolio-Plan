@@ -42,3 +42,5 @@
 
 ## Confidence Intervals
 ![Confidence](confidence.png)
+
+There is a 95% chance that an initial investment of 10,000 in the portfolio over the next 100 trading days will end within in the range of $2560.96 and 10401.23 dollars
