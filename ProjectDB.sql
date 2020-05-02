@@ -57,6 +57,7 @@ from pt_temp pt;
 update pt_temp set portfolio_name = 'financial'
 where portfolio_name = 'financial ';
 
+select * from potfolio_tickers;
 alter table price add CovidInEffect boolean default FALSE;
 
 insert into portfolio (portfolio_name)
