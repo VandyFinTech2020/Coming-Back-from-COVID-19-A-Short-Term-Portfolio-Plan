@@ -1,0 +1,20 @@
+ADM,Archer Daniels Midland,food
+CAG,ConAgra,food
+HRL,Hormel,food
+TSN,Tyson Foods,food
+CHTR,Charter Communications,communication
+CMCSA,Comcast,communication
+T,AT&T,communication
+VZ,Verizon ,communication
+BAC,Bank of America,financial 
+GS,Goldman Sachs,financial 
+PYPL,PayPal,financial 
+V,Visa,financial 
+ABT,Abbott Laboratories,pharma
+JNJ,Johnson & Johnson,pharma
+MRK,Merck,pharma
+PFE,Pfizer,pharma
+BTCUSD,Bitcoin,hedge
+ETHUSD,Ether,hedge
+GLD,Gold ETF,hedge
+SLV,Silver,hedge
