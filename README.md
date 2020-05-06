@@ -26,6 +26,9 @@ To help Harold visualize the results of each portfolio we created a plot to show
 The presentation was this group's bread and butter. Everything from Susan finding the right powerpoint template to Taylor's well-articulated and properly timed presentation.
 * [PowerPoint](https://github.com/VandyFinTech2020/Project01/blob/master/Coming%20Back%20from%20COVID-19.pptx)
 
+# Ending Notes 
+* To complete this project we used the following concepts discussed in class; Python, Pandas, SQL, and Simulation Visuals.
 
-# Ending Notes
-## Overall a super fun project taking advantage of concepts discussed in class such as Python, Pandas, SQL, and Simulation Visuals.
+## Analysis given to Harold:
+* If Harold doesn't mind taking on risk for the chance at larger returns, we suggest the "Hedge Portfolio"
+* If Harold is looking for the most conservative portfolio with greatest likelihood to produce a return, we suggest the "Pharma Portfolio"
