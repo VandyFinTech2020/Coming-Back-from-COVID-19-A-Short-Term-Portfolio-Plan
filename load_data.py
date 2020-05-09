@@ -49,7 +49,8 @@ print(dfMain.head())
 
 dfMain = dfMain[["ticker_id", "date",
                  "close_price", "ticker_name", "covidineffect"]]
-print(dfMain.head(2))
+print(dfMain.head())
+print(dfMain.count(2))
 
 # dfMain.to_sql('price', engine, if_exists='replace', index = False)
 dfMain.to_sql('price', engine, if_exists='append', index=False)
