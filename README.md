@@ -1,4 +1,4 @@
-# Project01: Table of Contents
+# Coming Back from COVID-19 - A Short-Term Portfolio Plan: Table of Contents
 ## Getting Started
 Initially setting up the scope and the depth of the project was handled by the team as a whole. We spent a couple class days discussing the purpose and more importantly our reason for doing our project. To do this we used a whiteboard application found online called StormBoard. We felt it was important to extend on the Portfolio Analysis homework assignment but with added complexity. We decided to conduct a financial analysis on 5 unique industry-focused portfolios to properly provide "Harold" with an accurate analysis of how Covid-19 affected the stock market. 
 * [StormBoard](https://github.com/VandyFinTech2020/Project01/blob/master/Whiteboard.png)
